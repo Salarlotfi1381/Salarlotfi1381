@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Salarlotfi1381
 ">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=salarturk&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Salarlotfi1381&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 <a href="https://github.com/Salarlotfi1381
 ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarturk&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salarlotfi1381&theme=dark" />
 </a>
