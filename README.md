@@ -1,32 +1,22 @@
-### Hi there , welcome to my github profile 👋
 
-<!--
-**salarturk/salarturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱  I’m Java Programmer (Learner)  😄
-
--   Website:  [SalarLotfi.ir](https://salarlotfi.ir/)
--   Telegram:  [@Salarlotfi1381](https://salarlotfi1381)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Salarlotfi1381&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Salarlotfi1381)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
 
-![enter image description here](https://camo.githubusercontent.com/fc083430a7a6c4b25724116b25a399c054aa230051bcb1f08ca55c4770ea70a1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b49506e4169614d437773386e4f73452f67697068792e676966)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salar-lotfi-74a42527b/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](salar.lotfi5162@gmail.com)
+![](https://komarev.com/ghpvc/?username=Salarlotfi1381&color=brightgreen&style=for-the-badge)
 
-<a href="https://github.com/Salarlotfi1381
-">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Salarlotfi1381&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
-<a href="https://github.com/Salarlotfi1381
-">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salarlotfi1381&theme=dark" />
-</a>
+<h4>Hi I am Salar 💇‍♂️ , a passoniate  Front End deveolper from Iran.I am a Self-taught software Developer.I love to work with new Technologies and like to learn new things everytime .<h4>
+
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Salarlotfi1381&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salarlotfi1381&theme=radical&layout=compact)](https://github.com/Parniakhaksabz) </td>
+   </tr>
+  </table>
+  
+
