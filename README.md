@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Salarlotfi1381&data=followers,repositories,stars,commits&theme=viridescent)](mailto:salar.lotfi5162@gmail.com)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Salarlotfi1381&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Salarlotfi1381)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salar-lotfi-74a42527b/)
